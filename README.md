@@ -1,6 +1,7 @@
 # Planet Jumper
  
 A Cookie clicker inspired space exploration game that runs between player sessions, akin to a mobile game.
+More Info and playable link here: https://bit-bandit98.github.io/Projects/PlanetJumper.html
 
 # Code Reflection
 - Good seperation of classes, but could be split up a bit more.
