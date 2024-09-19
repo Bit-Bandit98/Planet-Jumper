@@ -1,0 +1,419 @@
+fileFormatVersion: 2
+guid: dcf20499c65af964bb0f42270a107f47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6578892327267529403
+    second: Flash_0
+  - first:
+      213: -4221598902092674775
+    second: Flash_1
+  - first:
+      213: 5564759131187023308
+    second: Flash_2
+  - first:
+      213: 4175653292564332668
+    second: Flash_3
+  - first:
+      213: 917622954545057210
+    second: Flash_4
+  - first:
+      213: -8994050219209162570
+    second: Flash_5
+  - first:
+      213: 6134425590651783313
+    second: Flash_6
+  - first:
+      213: -3297625524827019315
+    second: Flash_7
+  - first:
+      213: -216811517340796845
+    second: Flash_8
+  - first:
+      213: 5715448596964827120
+    second: Flash_9
+  - first:
+      213: 9158609098299303134
+    second: Flash_10
+  - first:
+      213: 318310925811718884
+    second: Flash_11
+  - first:
+      213: -5366041884839604906
+    second: Flash_12
+  - first:
+      213: -423363237269482617
+    second: Flash_13
+  - first:
+      213: -6433574656872368683
+    second: Flash_14
+  - first:
+      213: -8666935462281986432
+    second: Flash_15
+  - first:
+      213: -4339339743314233422
+    second: Flash_16
+  - first:
+      213: -8351365600036116673
+    second: Flash_17
+  - first:
+      213: -5526051869957827713
+    second: Flash_18
+  - first:
+      213: -6685852689524352534
+    second: Flash_19
+  - first:
+      213: -1152838802698441151
+    second: Flash_20
+  - first:
+      213: 7214501665212676554
+    second: Flash_21
+  - first:
+      213: 6805248322104943993
+    second: Flash_22
+  - first:
+      213: -1787721396820686580
+    second: Flash_23
+  - first:
+      213: -5991723889187371688
+    second: Flash_24
+  - first:
+      213: 1468753819048591977
+    second: Flash_25
+  - first:
+      213: 3403817241115372866
+    second: Flash_26
+  - first:
+      213: -1106361352393036530
+    second: Flash_27
+  - first:
+      213: -3072878215276774420
+    second: Flash_28
+  - first:
+      213: 729606697917760406
+    second: Flash_29
+  - first:
+      213: 6916471162238379595
+    second: Flash_30
+  - first:
+      213: 6078210438528405651
+    second: Flash_31
+  - first:
+      213: -8617411917483018328
+    second: Flash_32
+  - first:
+      213: -7155236227530499087
+    second: Flash_33
+  - first:
+      213: 7066106622862863147
+    second: Flash_34
+  - first:
+      213: -7651392748557250659
+    second: Flash_35
+  - first:
+      213: -1445457075301126383
+    second: Flash_36
+  - first:
+      213: 3980317375015332502
+    second: Flash_37
+  - first:
+      213: 6859438636762848085
+    second: Flash_38
+  - first:
+      213: 586542150600021900
+    second: Flash_0
+  - first:
+      213: 6604617404270800445
+    second: Flash_1
+  - first:
+      213: -7885720860019670246
+    second: Flash_2
+  - first:
+      213: 1375958880984413281
+    second: Flash_3
+  - first:
+      213: 709460914800718708
+    second: Flash_4
+  - first:
+      213: -8632484838630758863
+    second: Flash_5
+  - first:
+      213: -7573053413934600723
+    second: Flash_6
+  - first:
+      213: 980766313275661768
+    second: Flash_7
+  - first:
+      213: 1508059711911730259
+    second: Flash_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flash_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3007
+        width: 2655
+        height: 1475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 21, z: 25, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87de447af0d32800800000000000000
+      internalID: 586542150600021900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flash_1
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 3007
+        width: 2644
+        height: 1489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 23, z: 0, w: 29}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e6ce2598058ab50800000000000000
+      internalID: 6604617404270800445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flash_2
+      rect:
+        serializedVersion: 2
+        x: 5340
+        y: 3019
+        width: 2655
+        height: 1453
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13c3ac78aa409290800000000000000
+      internalID: -7885720860019670246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flash_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1520
+        width: 2640
+        height: 1465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 10, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164be96ef43681310800000000000000
+      internalID: 1375958880984413281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flash_4
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 1520
+        width: 2626
+        height: 1450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 0, z: 0, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47378b071f288d900800000000000000
+      internalID: 709460914800718708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flash_5
+      rect:
+        serializedVersion: 2
+        x: 5362
+        y: 1516
+        width: 2633
+        height: 1470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 30}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136e770b6c0433880800000000000000
+      internalID: -8632484838630758863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flash_6
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 2655
+        height: 1458
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 16, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ded6e553b0c17e690800000000000000
+      internalID: -7573053413934600723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
