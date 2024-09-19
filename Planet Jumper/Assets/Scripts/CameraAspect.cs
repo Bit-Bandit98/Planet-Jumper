@@ -28,6 +28,8 @@ public class CameraAspect : MonoBehaviour
         }
     }
 
+    //"SetAspectRatio()" method was copied from https://discussions.unity.com/t/how-do-i-set-the-aspect-ratio-of-the-viewport/9353. 
+    //Author is user "Adrian_Lopez".
     private void SetAspectRatio()
     {
         // set the desired aspect ratio 
